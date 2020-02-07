@@ -1,1 +1,5 @@
-This is a timed quiz to help learn javascript vocab!! 
+Test your Javascript knowledge with a timed quiz!
+You have 100 seconds to complete this quiz.
+If you answer a question incorrectly 5 seconds is deducted from your time.
+If you answer a question correctly you get a point! 
+If you run out of time the quiz will end.
